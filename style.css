@@ -1,4 +1,4 @@
-@import url(//fonts.googleapis.com/css?family=Open+Sans:400,700,800,300);
+
 body{
     margin: 0px;
     font-family:'Roboto',sans-serif;
@@ -59,4 +59,7 @@ h2{
 }
 footer p{
     text-align:center;
+}
+@media screen and (max-width: 480px) {
+    
 }
